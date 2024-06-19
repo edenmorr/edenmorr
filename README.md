@@ -18,8 +18,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/eden mor](https://www.linkedin.com/in/eden-mor-1303042a5/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eden mor" height="30" width="40" /></a>
-<a href="https://fb.com/eden mor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="eden mor" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/eden-mor-1303042a5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eden mor" height="30" width="40" /></a>
+<a href="https://fb.com/eden.mor.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="eden mor" height="30" width="40" /></a>
 <a href="https://instagram.com/eden01020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eden01020" height="30" width="40" /></a>
 </p>
 
